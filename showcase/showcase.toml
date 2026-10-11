@@ -1,0 +1,11 @@
+[[media]]
+file = "combo.json.gz"
+name = "A live combo run"
+
+[[media]]
+file = "title.png"
+name = "Choose Classic"
+
+[[media]]
+file = "board.png"
+name = "The neon grid"
